@@ -1,0 +1,27 @@
+# Salesforce DX
+.sfdx/
+*.log
+*.json
+*.zip
+*.tmp
+*.bak
+*.backup
+node_modules/
+coverage/
+test-results/
+.idea/
+.vscode/
+.DS_Store
+
+# Gearset-specific
+gearset-validation-results/
+gearset-deployments/
+gearset-backups/
+
+# Git metadata
+*.orig
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
